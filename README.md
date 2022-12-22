@@ -1,4 +1,4 @@
-Maleke Hanson Readme
+Maleke Hanson 
 - I am currently a student at University of San Francisco
 - Studying software and cloud engineering using technologies of:
   - Java 

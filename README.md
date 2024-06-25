@@ -17,7 +17,6 @@ Here are some of the programming languages and technologies that I have experien
 - Rust
 - C#
 - NET Core
-- Ocaml
 - HMTL/CSS
 - Javascript
 
